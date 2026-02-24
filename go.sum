@@ -1,0 +1,4 @@
+github.com/cenkalti/backoff/v4 v4.3.0 h1:MyRJ/UdXutAwSAT+s3wNd7MfTIcy71VQueUuFK343L8=
+github.com/cenkalti/backoff/v4 v4.3.0/go.mod h1:Y3VNntkOUPxTVeUxJ/G5vcM//AlwfmyYozVcomhLiZE=
+github.com/goaux/backoff v1.1.0 h1:njKWSxfhkdZ7HiiqhK5WzIeLY1IXcZKLu1QK2CoK0/I=
+github.com/goaux/backoff v1.1.0/go.mod h1:rCHIQvPIdp/a6vjO8LzMMP5w5iZJ7LpFODnLg9m0AMA=

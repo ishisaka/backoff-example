@@ -1,0 +1,17 @@
+[env]
+_.file = { path = ".env", redact = true }
+
+[tasks.test]
+description = "Run tests"
+run = "go test ./..."
+[tasks.build]
+description = "Build the application"
+run = "go build -o ./bin/app/ ./..."
+
+[tasks.lint]
+description = "Run linter"
+run = "golangci-lint run"
+
+[tasks.format]
+description = "Run formatter"
+run = "golangci-lint fmt"
