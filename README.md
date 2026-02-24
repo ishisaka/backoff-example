@@ -1,0 +1,2 @@
+# backoff-example
+Go言語でリトライ処理や周期処理を行う為のBackoffライブラリの学習用
