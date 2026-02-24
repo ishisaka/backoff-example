@@ -1,4 +1,5 @@
 // 指数バックオフを使ったリトライの例
+// https://docs.cloud.google.com/memorystore/docs/redis/exponential-backoff?hl=ja
 package main
 
 import (
